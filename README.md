@@ -1,4 +1,4 @@
-# Tips Belajar
+# Tips Belajar 👨🏻‍💻
 
 Pemrograman merupakan kemampuan yang harus selalu diasah. Kita harus banyak membaca dari berbagai sumber dan bersahabat dengan dokumentasi sebuah program. Selain membaca teori, kita juga harus mempraktikkan apa yang telah kita pelajari. Bahkan jika dihitung dari persentase, disarankan untuk 80% praktik dan 20% teori. Sehingga waktu untuk menulis kode lebih banyak daripada teori. Ketika Anda belajar teori lebih banyak, maka Anda juga harus meningkatkan intensitas praktik Anda.
 
@@ -6,7 +6,7 @@ Dengan mempraktikkan teori yang dipelajari maka materi tersebut akan selalu teri
 
 Berikut beberapa tips yang dapat membantu Anda dalam belajar pemrograman:
 
-### **Pertama, yaitu Mengatur Waktu**
+### **Pertama, yaitu Mengatur Waktu** ⏰
 
 Tidak ada waktu merupakan alasan klasik ketika belajar pemrograman. Untuk mengatasi hal tersebut, kita harus memiliki target belajar. Misalnya dalam waktu satu minggu, saya harus sudah bisa memahami konsep perulangan dalam pemrograman. Target lain yang bisa dicoba adalah target waktu, misal belajar 3,5 jam per minggu atau sama dengan 30 menit per hari. Durasi waktu belajar bisa disesuaikan dengan kemampuan dan waktu yang Anda miliki.
 
@@ -18,13 +18,13 @@ Untuk mengatasi permasalahan tersebut, maka kita dapat menerapkan pola belajar d
 
 ### ****
 
-### **Tips Kedua yaitu Memperhatikan Kondisi Tempat Belajar**
+### **Tips Kedua yaitu Memperhatikan Kondisi Tempat Belajar** 🖥️
 
 Lingkungan tempat Anda belajar juga mempengaruhi kemampuan kita dalam mempelajari sesuatu. Pernahkah Anda mengalami blank atau tidak bisa mengingat apapun ketika masuk ruang kelas saat ujian semester? Ketika Anda belajar di rumah, Anda merasa nyaman dan bisa berpikir jernih. Namun, ketika sudah di depan kertas ujian, Anda bingung harus menjawab pertanyaan yang ada.
 
 Hal tersebut terjadi karena otak Anda berasosiasi sesuai dengan konteks di mana Anda sedang mempelajari sesuatu. Dalam proses belajar, tempat atau suasana sangat penting supaya informasi yang kita pelajari bisa cepat kita serap. Pastikan tempat yang Anda gunakan sesuai dengan Anda karena tingkat kenyamanan setiap orang berbeda-beda. Selain itu usahakan mencari tempat yang jauh dari distraksi atau gangguan, misal seperti suara bising kendaraan bermotor atau lalu lalang orang lewat.
 
-### **Tips terakhir yaitu Mulai dari yang Sederhana**
+### **Tips terakhir yaitu Mulai dari yang Sederhana**⭐
 
 Dalam memulai belajar pemrograman, jangan langsung loncat belajar yang sulit. Seperti sebuah pesan bijak, “Sesuatu yang besar dimulai dari langkah yang kecil” maka kita harus mulai melangkah dari yang paling sederhana dulu. Mulailah belajar mengenal penulisan sintaksis, logika pemrograman seperti percabangan atau perulangan, dan beberapa hal dasar lainnya. Layaknya sebuah bangunan yang megah, kita harus memperkuat fondasinya. Jika fondasi kita sudah kuat maka untuk membangun bangunan apa pun di atasnya pasti tidak akan roboh. Begitu pula dengan pemrograman, jika kita memperkuat hal yang paling dasar seperti logika pemrograman, penulisan pemrograman, dsb maka pengembangannya akan lebih mudah.
 
